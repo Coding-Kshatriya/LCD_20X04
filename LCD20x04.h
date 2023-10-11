@@ -10,7 +10,10 @@
 
 #ifndef LCD20x04_H_
 #define LCD20x04_H_
-
+#include <inttypes.h>
+#include "Print.h"
+#include <stdint.h>
+#include <stddef.h>
 
 
 // LCD commands
